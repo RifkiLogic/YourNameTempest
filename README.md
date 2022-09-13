@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YourNameTempest
-- 👀 I’m interested in Coding and Playing Football
+- 👋 Hi, I’m @RifkiLogic
+- 👀 I’m interested in Coding and Trading
 - 🌱 I’m currently learning Javascript
 
 
